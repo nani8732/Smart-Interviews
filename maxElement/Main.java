@@ -23,8 +23,5 @@
                 System.out.println(maxElement(arr,n));
 
         }
-
-
-
-        }
     }
+}
